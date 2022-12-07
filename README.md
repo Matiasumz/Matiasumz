@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Matiasumz
+- 👀 I’m interested in Software Develompment, Data and Project Management !
+- 🌱 I’m currently learning Flutter, and working with projects with Django - React
+- 📫 How to reach me matiasumz96@gmail.com
