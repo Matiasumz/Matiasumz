@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Matiasumz, I'm a sophomore student of the Higher Technical Degree in Software Development and I live in Buenos Aires!
-- 👀 I’m interested in Software Develompment and Project Management.
-- 🌱 I’m currently learning Flutter and Swift, and working with projects with Django - React
-- ⚡️ In my free time, I like to surf and play Saxophone !
+- 👋 Hi, I’m @Matiasumz,I am currently pursuing a Bachelor's Degree in Data Science and hold an Associate Degree in Software Development. Currently, I am residing in Buenos Aires.
+- 👀 I’m interested in Software Develompment and Data. I am passionate about leveraging data-driven insights to drive innovation and solve complex problems.
+- 🌱 I work full time as a Data Analyst!. In addition to that, I’m currently learning Flutter and Swift, and working with projects with Django - React.
+- ⚡️ In my free time, I like to Surf and play Saxophone !
 - 📫 How to reach me matiasumz96@gmail.com
